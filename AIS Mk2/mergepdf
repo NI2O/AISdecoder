@@ -1,0 +1,1 @@
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=AISDecoder_Mk2_V1.1.pdf AISDecoder_Mk2_Manual.pdf AIS_Mk2.2.pdf AIS_Mk2.2-board.pdf
